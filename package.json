@@ -1,0 +1,26 @@
+{
+  "name": "e-commerce-project",
+  "version": "1.0.0",
+  "description": "t-shirts shop code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavannavgurukul/e-commerce-project.git"
+  },
+  "author": "pawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pavannavgurukul/e-commerce-project/issues"
+  },
+  "homepage": "https://github.com/Pavannavgurukul/e-commerce-project#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.16.5",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.0"
+  }
+}
